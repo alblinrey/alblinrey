@@ -1,17 +1,15 @@
 ### Hi there 👋 Developer in progress
 👋 ¡Hola! Soy Alberto!
 
-🚀 Desarrollo mis primeras líneas de código y me encanta aprender cada día.
+🚀 Cada día intentando mejorar y aprender.
 
-🌱 Actualmente aprendiendo Java, Phyton, SQL, y otras herramientas.
+🌱 Actualmente aprendiendo Java, Phyton, SQL, y otras herramientas com Drupal, Docker, PHP, JS, etc
 
-💡 Siempre buscando nuevos desafíos y oportunidades para mejorar mis habilidades.
-
-📚 Apasionado por la tecnología y las soluciones creativas.
+📚 Apasionado por el mundo del turismo y las nuevas tecnología.
 
 🔗 Abierto a colaborar y crecer junto a otros desarrolladores.
 
-📍 Estoy en Sevilla.
+📍 Me encuentro en Sevilla.
 <!--
 **alblinrey/alblinrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
