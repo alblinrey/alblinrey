@@ -5,7 +5,7 @@
 
 🌱 Actualmente aprendiendo Java, Phyton, SQL, y otras herramientas com Drupal, Docker, PHP, JS, etc
 
-📚 Apasionado por el mundo del turismo y las nuevas tecnología.
+📚 Apasionado por el mundo del turismo y las nuevas tecnologías.
 
 🔗 Abierto a colaborar y crecer junto a otros desarrolladores.
 
