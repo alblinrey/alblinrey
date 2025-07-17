@@ -1,5 +1,5 @@
 ### Hi there 👋 Developer in progress
-👋 ¡Hola! Soy Alberto
+👋 ¡Hola! Soy Alberto.
 
 🚀 Cada día aprendiendo y mejorando.
 
@@ -9,5 +9,5 @@
 
 🔗 Abierto a colaborar y crecer junto a otros desarrolladores.
 
-📍 Me encuentro en Sevilla.
+📍 Sevilla.
 
